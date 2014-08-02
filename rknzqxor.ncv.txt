@@ -1,0 +1,19 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch gh-pages
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   AppletreeLogo_website.jpg
+#	new file:   BlueOrchidLogo_website.jpg
+#	new file:   CharcoalPortrait_website.jpg
+#	new file:   CharcoalSketches.jpg
+#	new file:   CliffJumpStoryboards_website.jpg
+#	new file:   FrostysLogo_website.jpg
+#	new file:   MayaRV.jpg
+#	new file:   OwliesLogo_website.jpg
+#	new file:   Tucker.jpg
+#	new file:   oilpainting.jpg
+#
+
